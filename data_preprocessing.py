@@ -81,3 +81,4 @@ for i in range(1, len(lati)):
     distance = np.append(distance, tmp_d)
     coord = np.append(coord, coord[i-1] + tmp_d)
 '''
+ans = get_distance_hav(29.683626,106.58997,29.683285,106.593353)
