@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CIGIT2021.iml" filepath="$PROJECT_DIR$/.idea/CIGIT2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PythonWorkplace/.idea/PythonWorkplace.iml" filepath="$PROJECT_DIR$/../../PythonWorkplace/.idea/PythonWorkplace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PytorchLesson/.idea/PytorchLesson.iml" filepath="$PROJECT_DIR$/../../PytorchLesson/.idea/PytorchLesson.iml" />
+    </modules>
+  </component>
+</project>
