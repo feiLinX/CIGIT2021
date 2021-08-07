@@ -14,8 +14,6 @@ Pytorch is recommended.
 
 You can download the data from https://drive.google.com/file/d/15Vy83DdgOk7sEGHcbyEisCcDYXMr6BhM/view?usp=sharing.
 
-The program is completed in August 6, 2021.
-
 Junzhe Huang
 E-mail: jhuang618@gatech.edu
 
