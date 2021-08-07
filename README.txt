@@ -6,8 +6,8 @@ files, and split them into files with specific date, bus number, condition, and 
 the splited files, and aggregate them as 'dn2up.csv' and 'up2dn.csv', which are 2 different bus routes. 'training.ipynb'
 contains feature extracting, framing, ML training and testing. ML models involved: k-NN, SVM, RF, MLP, CNN.
 
-You can also start just from the 'training.ipynb' as long as you have 'dn2up.csv' and 'up2dn.csv' and guarantee they
-are in the right place.
+You can also start just from the 'training.ipynb' as long as you have 'dn2up.csv', 'up2dn.csv', 'dn2up_stop&signal.csv',
+'up2dn_stop&signal.csv' and guarantee they are in the right place.
 
 To run the ML models, make sure that sklearn, Pytorch for GPU, and visdom are installed. A version 1.8.0 or higher for
 Pytorch is recommended.
