@@ -1,7 +1,7 @@
 This is the code of the program "Traffic signal estimate and positioning based on GPS trajectory" in CIGIT, 2021 Summer.
 
 To start from the very beginning, you should first guarantee the data and the code are in the right place, then run
-'data_prepare.ipynb', 'alignment.ipynb', and 'training.ipynb' by order. 'data_prepare.ipynb' reads the original csv 
+'data_prepare.ipynb', 'alignment.ipynb', and 'training.ipynb' in sequence. 'data_prepare.ipynb' reads the original csv 
 files, and split them into files with specific date, bus number, condition, and direction. 'alignment.ipynb' reads 
 the splited files, and aggregate them as 'dn2up.csv' and 'up2dn.csv', which are 2 different bus routes. 'training.ipynb'
 contains feature extracting, framing, ML training and testing. ML models involved: k-NN, SVM, RF, MLP, CNN.
@@ -18,4 +18,5 @@ The program is completed in August 6, 2021.
 
 Junzhe Huang
 E-mail: jhuang618@gatech.edu
+
 Final editing date: August 8, 2021
