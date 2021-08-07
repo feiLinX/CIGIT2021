@@ -3,7 +3,7 @@ This is the code of the program "Traffic signal estimate and positioning based o
 To start from the very beginning, you should first guarantee the data and the code are in the right place, then run
 'data_prepare.ipynb', 'alignment.ipynb', and 'training.ipynb' in sequence. 'data_prepare.ipynb' reads the original csv 
 files, and split them into files with specific date, bus number, condition, and direction. 'alignment.ipynb' reads 
-the splited files, and aggregate them as 'dn2up.csv' and 'up2dn.csv', which are 2 different bus routes. 'training.ipynb'
+the splited files, and aggregates them into 'dn2up.csv' and 'up2dn.csv', which are 2 different bus routes. 'training.ipynb'
 contains feature extracting, framing, ML training and testing. ML models involved: k-NN, SVM, RF, MLP, CNN.
 
 You can also start just from the 'training.ipynb' as long as you have 'dn2up.csv', 'up2dn.csv', 'dn2up_stop&signal.csv',
